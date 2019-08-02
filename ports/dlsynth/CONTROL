@@ -1,0 +1,5 @@
+Source: dlsynth
+Version: 1.0.0
+Homepage: https://dlsynth.libdmusic.org
+Description: DLS Synth library
+Build-Depends: riffcpp
